@@ -14,6 +14,7 @@ public class Assignment {
 	
 	public String getName()
 	{
+		System.out.println("hello world.");
 		return this.name;
 	}
 	
